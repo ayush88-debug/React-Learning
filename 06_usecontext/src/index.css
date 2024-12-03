@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    height: 100dvh;
+}
